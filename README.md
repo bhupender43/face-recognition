@@ -1,5 +1,5 @@
 # face-recognition
-PROJECT:Payment Sstem using Face Recognition
+PROJECT:Payment System using Face Recognition
 
 Follow this steps in order to execute the Python Program.
 
